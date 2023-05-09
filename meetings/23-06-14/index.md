@@ -4,9 +4,7 @@ permalink: meetings/23-06-14
 ---
 
 ### Article(s) for Discussion:
-- Title: Using Population Descriptors in Genetics and Genomics Research (Continued)
-- Authors: National Academies of Sciences, Engineering, and Medicine  
-- Link: [https://nap.nationalacademies.org/catalog/26902/using-population-descriptors-in-genetics-and-genomics-research-a-new](https://nap.nationalacademies.org/catalog/26902/using-population-descriptors-in-genetics-and-genomics-research-a-new) 
+- TBD
 
 ### Meeting Details
 
@@ -16,7 +14,7 @@ permalink: meetings/23-06-14
 
 **Location**: Hybrid: Rm 6E032/34/ and via Teams 
 
-**Discussion Leader**: Peter Kraft
+**Discussion Leader**: TBD
 
 ### Pre-Meeting Preparation:
 - TBD
@@ -26,4 +24,4 @@ permalink: meetings/23-06-14
 ---
 
 <br><br>
-<!--*-- Presenters: Peter Kraft*-->
+<!--*-- Presenters: TBD*-->
