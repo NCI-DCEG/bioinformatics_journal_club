@@ -23,6 +23,9 @@ permalink: meetings/23-05-10
 -  Note any questions, comments, or discussion points you would like to raise.
 - Be prepared to share your thoughts and engage in the discussion.
 
+### Optional Readings:
+- [Genetic similarity versus genetic ancestry groups as sample descriptors in human genetics] (https://arxiv.org/pdf/2207.11595.pdf)
+
 ---
 
 <br><br>

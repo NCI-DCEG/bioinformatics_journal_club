@@ -21,6 +21,8 @@ permalink: meetings/23-06-14
 -  Note any questions, comments, or discussion points you would like to raise.
 - Be prepared to share your thoughts and engage in the discussion.
 
+### Optional Readings:
+
 ---
 
 <br><br>
