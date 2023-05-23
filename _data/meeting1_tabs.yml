@@ -8,6 +8,4 @@ items:
   - name: Slides
     link: /meetings/23-05-10/slides
     icon: fa-laptop-code
-  - name: Discussion Summary
-    link: /meetings/23-05-10/discussion_summary
-    icon: fa-book
+
