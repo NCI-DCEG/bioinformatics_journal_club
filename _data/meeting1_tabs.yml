@@ -5,7 +5,7 @@ items:
   - name: Overview
     link: /meetings/23-05-10
     icon: fa-dna
-  - name: Slides
+  - name: slides
     link: /meetings/23-05-10/slides
     icon: fa-laptop-code
 

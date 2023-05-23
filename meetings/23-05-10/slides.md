@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: meetings/23-05-10/Slides
+permalink: meetings/23-05-10/slides
 menubar_toc: true
 ---
 
