@@ -82,7 +82,7 @@ defaults:
     scope:
       path: meetings/23-06-14
     values:
-      title: "23-06-14: Using Population Descriptors in Genetics and Genomics Research"
+      title: "TBD"
       parent: meetings
       nav_order: 2
       tabs: meeting2_tabs
