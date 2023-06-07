@@ -16,6 +16,7 @@ permalink: /resources
 | FAIRification of health-related data using semantic web technologies in the Swiss Personalized Health Network | [https://doi.org/10.1038/s41597-023-02028-y](https://doi.org/10.1038/s41597-023-02028-y) | Touré, V., Krauss, P., Gnodtke, K., ... Österle, S. | Scientific Data | | | 
 | Methods and applications for single-cell and spatial multi-omics | [https://doi.org/10.1038/s41576-023-00580-2](https://doi.org/10.1038/s41576-023-00580-2) | Vandereyken, K., Sifrim, A., Thienpont, B., & Voet, T. | Nature Reviews. Genetics | | | 
 | An atlas of genetic scores to predict multi-omic traits | [https://doi.org/10.1038/s41586-023-05844-9](https://doi.org/10.1038/s41586-023-05844-9) | Xu, Y., Ritchie, S. C., Liang, Y., ... Inouye, M. | Nature | | | 
+| Gene Set Summarization using Large Language Models | [http://arxiv.org/abs/2305.13338](http://arxiv.org/abs/2305.13338) | Joachimiak, M. P., Harry Caufield, J., Harris, N. L., Kim, H., & Mungall, C. J. | arXiv | | |
 
 ---
 
