@@ -16,7 +16,7 @@ permalink: meetings/23-05-10
 
 **Location**: Hybrid: Rm 6E032/34/ and via Teams 
 
-**Discussion Leader**: Peter Kraft
+**Discussion Leader**: Dr. Peter Kraft
 
 ### Pre-Meeting Preparation:
 - Please make sure to read the Summary (Page 1) and Chapter 5 (Guidance for Selection and Use of Population Descriptors in Genomics Research, Page 113-146) in the article in advance

@@ -23,8 +23,11 @@ We invite you to contribute to this dynamic environment by recommending a paper 
 
 
 ---
-#### Meeting 23-06-14
-- Title: TBD - Looking for paper and volunteer!
+#### Meeting 23-08-09
+- Title: What Is ChatGPT Doing … and Why Does It Work?
+- Author: Stephen Wolfram
+- Link: [https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+
 
 
 

@@ -3,11 +3,8 @@ style: is-boxed
 size: is-large
 items:
   - name: Overview
-    link: /meetings/23-06-14
+    link: /meetings/23-08-09
     icon: fa-dna
   - name: Slides
-    link: /meetings/23-06-14/slides
+    link: /meetings/23-08-09/slides
     icon: fa-book
-  - name: Discussion Summary
-    link: /meetings/23-06-14/discussion_summary
-    icon: fa-laptop-code

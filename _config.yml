@@ -80,9 +80,9 @@ defaults:
       tabs: meeting1_tabs
   -
     scope:
-      path: meetings/23-06-14
+      path: meetings/23-08-09
     values:
-      title: "TBD"
+      title: "23-08-09: Large Language Models (LLMs) like GPT-4 and AI agents"
       parent: meetings
       nav_order: 2
       tabs: meeting2_tabs
