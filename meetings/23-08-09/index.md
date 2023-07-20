@@ -23,6 +23,7 @@ permalink: meetings/23-08-09
 
 ### Optional Readings:
 - [Analysis of large-language model versus human performance for genetics questions](https://www.nature.com/articles/s41431-023-01396-8)
+- [Large language models in medicine](https://www.nature.com/articles/s41591-023-02448-8)
 - [Aligning language models to follow instructions](https://openai.com/research/instruction-following)
 
 
