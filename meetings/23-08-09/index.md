@@ -22,6 +22,7 @@ permalink: meetings/23-08-09
 - Be prepared to share your thoughts and engage in the discussion.
 
 ### Optional Readings:
+- [Analysis of large-language model versus human performance for genetics questions](https://www.nature.com/articles/s41431-023-01396-8)
 - [Aligning language models to follow instructions](https://openai.com/research/instruction-following)
 
 
