@@ -28,6 +28,11 @@ We invite you to contribute to this dynamic environment by recommending a paper 
 - Author: Stephen Wolfram
 - Link: [https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
+---
+#### Meeting 23-09-27
+- Title: Gene Set Summarization using Large Language Models
+- Authors: Joachimiak, M. P., Harry Caufield, J., Harris, N. L., Kim, H., & Mungall, C. J.
+- Link: [http://arxiv.org/abs/2305.13338](http://arxiv.org/abs/2305.13338)
 
 
 
