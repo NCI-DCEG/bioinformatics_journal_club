@@ -1,0 +1,10 @@
+alignment: is-left
+style: is-boxed
+size: is-large
+items:
+  - name: Overview
+    link: /meetings/24-02-21
+    icon: fa-dna
+  - name: Slides
+    link: /meetings/24-02-22/slides
+    icon: fa-book
