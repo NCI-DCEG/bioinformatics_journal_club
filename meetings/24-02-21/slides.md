@@ -9,8 +9,9 @@ menubar_toc: true
 
 
 
-
 ---
 
-Slides will be uploaded here soon
+## The slides can be downloaded [here](assets/DW.2024-02-21.V4.pdf)
+---
 
+<object data="assets/DW.2024-02-21.V4.pdf" width="1000" height="1000" type='application/pdf'></object>
