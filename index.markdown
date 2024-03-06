@@ -20,23 +20,31 @@ We invite you to contribute to this dynamic environment by recommending a paper 
 - Title: Using Population Descriptors in Genetics and Genomics Research 
 - Authors: National Academies of Sciences, Engineering, and Medicine  
 - Link: [https://nap.nationalacademies.org/catalog/26902/using-population-descriptors-in-genetics-and-genomics-research-a-new](https://nap.nationalacademies.org/catalog/26902/using-population-descriptors-in-genetics-and-genomics-research-a-new) 
-
+- Presenter: Peter Kraft
 
 ---
 #### Meeting 23-08-09
 - Title: What Is ChatGPT Doing … and Why Does It Work?
 - Author: Stephen Wolfram
 - Link: [https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
+- Presenter: Jeya Balasubramanian
 
 ---
 #### Meeting 23-09-27
 - Title: Gene Set Summarization using Large Language Models
 - Authors: Joachimiak, M. P., Harry Caufield, J., Harris, N. L., Kim, H., & Mungall, C. J.
 - Link: [http://arxiv.org/abs/2305.13338](http://arxiv.org/abs/2305.13338)
+- Presenter: Sijia Huo
 
 ---
 #### Meeting 24-02-21
 - Title: The Helicobacter pylori Genome Project: insights into H. pylori population structure from analysis of a worldwide collection of complete genomes.
 - Authors: Thorell, K., Muñoz-Ramírez, Z. Y., Wang, D., Sandoval-Motta, S., Boscolo Agostini, R., Ghirotto, S., Torres, R. C., HpGP Research Network, Falush, D., Camargo, M. C., & Rabkin, C. S.
 - Link: [https://doi.org/10.1038/s41467-023-43562-y](https://doi.org/10.1038/s41467-023-43562-y)
+- Presenter: Difei Wang
+
+---
+#### Meeting 24-03-13
+- Title: Transcriptomic profiling of lung adenocarcinoma from never-smokers reveals molecular subtypes with clinical implications
+- Presentor: Wei Zhao
 

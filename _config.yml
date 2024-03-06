@@ -103,7 +103,16 @@ defaults:
       title: "24-02-21: The Helicobacter pylori Genome Project: insights into H. pylori population structure from analysis of a worldwide collection of complete genomes"
       parent: meetings
       nav_order: 2
-      tabs: meeting4_tabs        
+      tabs: meeting4_tabs      
+
+  -
+    scope:
+      path: meetings/24-03-13
+    values:
+      title: "24-03-13: Transcriptomic profiling of lung adenocarcinoma from never-smokers reveals molecular subtypes with clinical implications"
+      parent: meetings
+      nav_order: 2
+      tabs: meeting5_tabs       
   
   
 
