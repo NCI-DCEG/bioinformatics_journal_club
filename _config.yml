@@ -113,7 +113,24 @@ defaults:
       parent: meetings
       nav_order: 2
       tabs: meeting5_tabs       
-  
+
+  -
+    scope:
+      path: meetings/24-04-10
+    values:
+      title: "24-04-10: Large-scale snRNA-seq dataset revealed cell subtype-specific effects of genetic variation in the Alzheimer’s disease brain"
+      parent: meetings
+      nav_order: 2
+      tabs: meeting6_tabs    
+
+  -
+    scope:
+      path: meetings/24-05-08
+    values:
+      title: "24-05-08: Establishing a single-cell eQTL dataset of lung tissues from Asian women never-smokers to elucidate cell-type specific genetic regulation"
+      parent: meetings
+      nav_order: 2
+      tabs: meeting7_tabs       
   
 
 # Exclude from processing.

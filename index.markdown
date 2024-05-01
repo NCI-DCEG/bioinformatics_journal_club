@@ -46,5 +46,16 @@ We invite you to contribute to this dynamic environment by recommending a paper 
 ---
 #### Meeting 24-03-13
 - Title: Transcriptomic profiling of lung adenocarcinoma from never-smokers reveals molecular subtypes with clinical implications
-- Presentor: Wei Zhao
+- Presenter: Wei Zhao
 
+---
+#### Meeting 24-04-10
+- Title: Large-scale snRNA-seq dataset revealed cell subtype-specific effects of genetic variation in the Alzheimer’s disease brain
+- Authors: Fujita, M., Gao, Z., Zeng, L., McCabe, C., White, C. C., Ng, B., Green, G. S., Rozenblatt-Rosen, O., Phillips, D., Amir-Zilberstein, L., Lee, H., Pearse, R. V., 2nd, Khan, A., Vardarajan, B. N., Kiryluk, K., Ye, C. J., Klein, H.-U., Wang, G., Regev, A., … De Jager, P. L.
+- Link: [https://www.nature.com/articles/s41588-024-01685-y](https://www.nature.com/articles/s41588-024-01685-y)
+- Presenter: Bolun Li
+
+---
+#### Meeting 24-05-08
+- Title: Establishing a single-cell eQTL dataset of lung tissues from Asian women never-smokers to elucidate cell-type specific genetic regulation
+- Presenter: Thong Luong
