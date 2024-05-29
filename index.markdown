@@ -59,3 +59,8 @@ We invite you to contribute to this dynamic environment by recommending a paper 
 #### Meeting 24-05-08
 - Title: Establishing a single-cell eQTL dataset of lung tissues from Asian women never-smokers to elucidate cell-type specific genetic regulation
 - Presenter: Thong Luong
+
+---
+#### Meeting 24-06-12
+- Title: A new method of adjusting for correlated dose errors, or where there may be substantial curvature in dose response, and comparison with other methods of dose error correction
+- Presenter: Mark Little
