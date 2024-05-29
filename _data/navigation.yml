@@ -14,7 +14,9 @@
     - name: '24-04-10'
       link: /meetings/24-04-10  
     - name: '24-05-08'
-      link: /meetings/24-05-08           
+      link: /meetings/24-05-08 
+    - name: '24-06-12'
+      link: /meetings/24-06-12                 
 - name: Resources
   link: /resources
 - name: News
