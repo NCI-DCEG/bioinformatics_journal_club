@@ -9,13 +9,14 @@ permalink: meetings/24-06-12
 
 **Time**: 11:00-12:00 
 
-**Location**: Hybrid: Rm 1E032/34/ and via Teams 
+**Location**: Hybrid: Rm 6E032/34 and via Teams 
 
 **Presenter**: Dr. Mark Little
 
-### Title: A new method of adjusting for correlated dose errors, or where there may be substantial curvature in dose response, and comparison with other methods of dose error correction
+###  A new method of adjusting for correlated dose errors, or where there may be substantial curvature in dose response, and comparison with other methods of dose error correction
 
-#### Abastract:
+Mark P Little, Nobuyuki Hamada, Lydia B Zablotska
+
 The problem of allowing for measurement error in exposure when estimating exposure-response relationships has been the subject of much interest in epidemiology. It is well recognized that measurement error can alter substantially the shape of this relationship and hence the derived population risk estimates. In particular, low-dose radiation risks are often extrapolated from groups exposed at much higher levels of dose, and this extrapolation can be adversely affected by errors in assessed exposures. Recently, there has been much attention paid to methods of dealing with shared errors in estimating exposures, which are common in many datasets, and particularly important in occupational and environmental settings.
 
 Various methods of correcting for exposure error have been proposed. Regression calibration (RC) is easy to use, and has been frequently applied. Various full-likelihood methods such as Monte Carlo maximum likelihood (MCML) and Bayesian Markov Chain Monte Carlo (MCMC) have also been used, although these are computationally much more cumbersome. More recently frequentist model averaging (FMA) and 2D Monte Carlo with Bayesian model averaging (2DMC+BMA) methods have been used in simulated and real data where there are substantial inter-individual correlations in dose, and claims made that these outperform methods such as RC. 
