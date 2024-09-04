@@ -64,3 +64,8 @@ We invite you to contribute to this dynamic environment by recommending a paper 
 #### Meeting 24-06-12
 - Title: A new method of adjusting for correlated dose errors, or where there may be substantial curvature in dose response, and comparison with other methods of dose error correction
 - Presenter: Mark Little
+
+---
+#### Meeting 11-09-12
+- Title: F-MAGMA: leveraging epigenomic data for enhanced target gene identification in GWAS
+- Presenter: Charles Breeze

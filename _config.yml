@@ -139,7 +139,16 @@ defaults:
       title: "24-06-12: A new method of adjusting for correlated dose errors, or where there may be substantial curvature in dose response, and comparison with other methods of dose error correction"
       parent: meetings
       nav_order: 2
-      tabs: meeting8_tabs       
+      tabs: meeting8_tabs    
+
+  -
+    scope:
+      path: meetings/11-09-12
+    values:
+      title: "24-09-11: F-MAGMA: leveraging epigenomic data for enhanced target gene identification in GWAS"
+      parent: meetings
+      nav_order: 2
+      tabs: meeting9_tabs  
   
 
 # Exclude from processing.
