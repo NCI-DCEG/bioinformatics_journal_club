@@ -66,6 +66,6 @@ We invite you to contribute to this dynamic environment by recommending a paper 
 - Presenter: Mark Little
 
 ---
-#### Meeting 11-09-12
+#### Meeting 24-09-11
 - Title: F-MAGMA: leveraging epigenomic data for enhanced target gene identification in GWAS
 - Presenter: Charles Breeze

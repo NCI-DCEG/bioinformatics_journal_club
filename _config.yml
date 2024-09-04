@@ -143,7 +143,7 @@ defaults:
 
   -
     scope:
-      path: meetings/11-09-12
+      path: meetings/24-09-11
     values:
       title: "24-09-11: F-MAGMA: leveraging epigenomic data for enhanced target gene identification in GWAS"
       parent: meetings
