@@ -149,6 +149,15 @@ defaults:
       parent: meetings
       nav_order: 2
       tabs: meeting9_tabs  
+
+  -
+    scope:
+      path: meetings/24-10-09
+    values:
+      title: "24-10-09: CPRD: Real-world Data Source for Epidemiologic Research"
+      parent: meetings
+      nav_order: 2
+      tabs: meeting10_tabs  
   
 
 # Exclude from processing.

@@ -69,3 +69,10 @@ We invite you to contribute to this dynamic environment by recommending a paper 
 #### Meeting 24-09-11
 - Title: F-MAGMA: leveraging epigenomic data for enhanced target gene identification in GWAS
 - Presenter: Charles Breeze
+
+---
+#### Meeting 24-10-09
+- Title: CPRD: Real-world Data Source for Epidemiologic Research
+- Presenter: Shahinaz Gadalla
+
+
