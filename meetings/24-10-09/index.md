@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: meetings/24-09-11
+permalink: meetings/24-10-09
 ---
 
 ### Meeting Details
