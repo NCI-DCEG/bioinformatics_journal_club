@@ -75,4 +75,7 @@ We invite you to contribute to this dynamic environment by recommending a paper 
 - Title: CPRD: Real-world Data Source for Epidemiologic Research
 - Presenter: Shahinaz Gadalla
 
-
+---
+#### Meeting 24-11-13
+- Title: Building FAIR Bioinformatics Workflows: A Case Study Using De Novo Mutations Variant Calling in Snakemake
+- Presenter: Wei Zhu

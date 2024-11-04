@@ -158,6 +158,15 @@ defaults:
       parent: meetings
       nav_order: 2
       tabs: meeting10_tabs  
+
+  -
+    scope:
+      path: meetings/24-11-13
+    values:
+      title: "24-11-13: Building FAIR Bioinformatics Workflows: A Case Study Using De Novo Mutations Variant Calling in Snakemake"
+      parent: meetings
+      nav_order: 2
+      tabs: meeting11_tabs       
   
 
 # Exclude from processing.
