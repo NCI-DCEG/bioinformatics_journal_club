@@ -79,3 +79,8 @@ We invite you to contribute to this dynamic environment by recommending a paper 
 #### Meeting 24-11-13
 - Title: Building FAIR Bioinformatics Workflows: A Case Study Using De Novo Mutations Variant Calling in Snakemake
 - Presenter: Wei Zhu
+
+---
+#### Meeting 25-01-08
+- Title: The Geisinger DiscovEHR cohort: 233,185 people with exome sequencing and longitudinal EHR data
+- Presenter: Douglas Stewart

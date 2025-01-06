@@ -167,6 +167,15 @@ defaults:
       parent: meetings
       nav_order: 2
       tabs: meeting11_tabs       
+
+  -
+    scope:
+      path: meetings/25-01-08
+    values:
+      title: "25-01-08: The Geisinger DiscovEHR cohort: 233,185 people with exome sequencing and longitudinal EHR data"
+      parent: meetings
+      nav_order: 2
+      tabs: meeting12_tabs          
   
 
 # Exclude from processing.
