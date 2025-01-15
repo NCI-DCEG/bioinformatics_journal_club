@@ -20,6 +20,8 @@ Geisinger is an integrated health system serving patients in Northeastern and Ce
 ---
 
 ### Recommended Readings:
+Kim, S. Y., Kim, J., Ramos, M., Haley, J., Smelser, D., Rao, H. S., Mirshahi, U. L., Geisinger-Regeneron DiscovEHR Collaboration, Graubard, B. I., Katki, H. A., Carey, D., & Stewart, D. R. (2024). Genomic ascertainment of CHEK2-related cancer predisposition. medRxiv: The Preprint Server for Health Sciences, 2024.08.07.24311613. https://doi.org/10.1101/2024.08.07.24311613
+
 Carey, D. J., Fetterolf, S. N., Davis, F. D., Faucett, W. A., Kirchner, H. L., Mirshahi, U., Murray, M. F., Smelser, D. T., Gerhard, G. S., & Ledbetter, D. H. (2016). The Geisinger MyCode community health initiative: an electronic health record-linked biobank for precision medicine research. Genetics in Medicine: Official Journal of the American College of Medical Genetics, 18(9), 906–913. https://doi.org/10.1038/gim.2015.187
 
 Näslund-Koch, C., Nordestgaard, B. G., & Bojesen, S. E. (2016). Increased risk for other cancers in addition to breast cancer for CHEK2*1100delC heterozygotes estimated from the Copenhagen General Population Study. Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology, 34(11), 1208–1216. https://doi.org/10.1200/JCO.2015.63.3594
