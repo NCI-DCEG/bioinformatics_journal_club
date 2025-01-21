@@ -175,7 +175,16 @@ defaults:
       title: "25-01-08: The Geisinger DiscovEHR cohort: 233,185 people with exome sequencing and longitudinal EHR data"
       parent: meetings
       nav_order: 2
-      tabs: meeting12_tabs          
+      tabs: meeting12_tabs  
+
+  -
+    scope:
+      path: meetings/25-02-12
+    values:
+      title: "25-02-12: Utilizing Commercial Real-World Data: Truveta"
+      parent: meetings
+      nav_order: 2
+      tabs: meeting13_tabs                     
   
 
 # Exclude from processing.

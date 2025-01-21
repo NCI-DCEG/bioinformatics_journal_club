@@ -84,3 +84,8 @@ We invite you to contribute to this dynamic environment by recommending a paper 
 #### Meeting 25-01-08
 - Title: The Geisinger DiscovEHR cohort: 233,185 people with exome sequencing and longitudinal EHR data
 - Presenter: Douglas Stewart
+
+---
+#### Meeting 25-02-12
+- Title: Utilizing Commercial Real-World Data: Truveta
+- Presenter: Gino Cioffi
