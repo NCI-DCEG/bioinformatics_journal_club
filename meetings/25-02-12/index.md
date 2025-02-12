@@ -9,7 +9,7 @@ permalink: meetings/25-02-12
 
 **Time**: 11:00-12:00 
 
-**Location**: Hybrid: Rm 6E032/34 and via Teams 
+**Location**: Teams 
 
 **Presenter**: Gino Cioffi
 
