@@ -89,3 +89,8 @@ We invite you to contribute to this dynamic environment by recommending a paper 
 #### Meeting 25-02-12
 - Title: Utilizing Commercial Real-World Data: Truveta
 - Presenter: Gino Cioffi
+
+---
+### Meeting 25-03-12
+- Title: Caris Precision Oncology Alliance™ (POA) and CODEai™ clinico-genomics research database overview and demonstration
+- Presenters: Drs. Farah Abdulla, Jamie Holloway, Jesse Lee, and David Crosby
