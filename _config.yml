@@ -193,7 +193,17 @@ defaults:
       title: "25-03-12: Caris Precision Oncology Alliance™ (POA) and CODEai™ clinico-genomics research database overview and demonstration"
       parent: meetings
       nav_order: 2
-      tabs: meeting14_tabs                       
+      tabs: meeting14_tabs   
+
+  -
+    scope:
+      path: meetings/25-04-09
+    values:
+      title: "25-04-09: Towards a FAIRer Real World Data Commons: real-time processing of individual level patient discharge reports collected by NY's SPARCS program"
+      parent: meetings
+      nav_order: 2
+      tabs: meeting15_tabs   
+
   
 
 # Exclude from processing.

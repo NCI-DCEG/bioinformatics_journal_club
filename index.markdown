@@ -94,3 +94,8 @@ We invite you to contribute to this dynamic environment by recommending a paper 
 ### Meeting 25-03-12
 - Title: Caris Precision Oncology Alliance™ (POA) and CODEai™ clinico-genomics research database overview and demonstration
 - Presenters: Drs. Farah Abdulla, Jamie Holloway, Jesse Lee, and David Crosby
+
+---
+### Meeting 25-04-09
+- Title: Towards a FAIRer Real World Data Commons: real-time processing of individual level patient discharge reports collected by NY's SPARCS program. 
+- Presenter: Dr. Jonas De Almeida
