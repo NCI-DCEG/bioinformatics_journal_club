@@ -22,7 +22,7 @@ To support quality improvement and research, the New York State Department of He
 ### Recommended Readings:
 
 - Almeida, J. S., Hajagos, J., Saltz, J., & Saltz, M. (2019). Serverless OpenHealth at data commons scale-traversing the 20 million patient records of New York’s SPARCS dataset in real-time. PeerJ, 7, e6230. [https://doi.org/10.7717/peerj.6230](https://doi.org/10.7717/peerj.6230)
-- García-Closas, M., Ahearn, T. U., Gaudet, M. M., Hurson, A. N., Balasubramanian, J. B., Choudhury, P. P., Gerlanc, N. M., Patel, B., Russ, D., Abubakar, M., Freedman, N. D., Wong, W. S. W., Chanock, S. J., Berrington de Gonzalez, A., & Almeida, J. S. (2023). Moving Toward Findable, Accessible, Interoperable, Reusable Practices in Epidemiologic Research. American Journal of Epidemiology, 192(6), 995–1005. https://doi.org/10.1093/aje/kwad040
+- García-Closas, M., Ahearn, T. U., Gaudet, M. M., Hurson, A. N., Balasubramanian, J. B., Choudhury, P. P., Gerlanc, N. M., Patel, B., Russ, D., Abubakar, M., Freedman, N. D., Wong, W. S. W., Chanock, S. J., Berrington de Gonzalez, A., & Almeida, J. S. (2023). Moving Toward Findable, Accessible, Interoperable, Reusable Practices in Epidemiologic Research. American Journal of Epidemiology, 192(6), 995–1005. [https://doi.org/10.1093/aje/kwad040](https://doi.org/10.1093/aje/kwad040)
 
 
 <br><br>
