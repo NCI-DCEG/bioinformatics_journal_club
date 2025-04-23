@@ -97,5 +97,10 @@ We invite you to contribute to this dynamic environment by recommending a paper 
 
 ---
 ### Meeting 25-04-09
-- Title: Towards a FAIRer Real World Data Commons: real-time processing of individual level patient discharge reports collected by NY's SPARCS program. 
+- Title: Towards a FAIRer Real World Data Commons: real-time processing of individual level patient discharge reports collected by NY's SPARCS program 
 - Presenter: Dr. Jonas De Almeida
+
+---
+### Meeting 25-05-14
+- Title: The Department of Defense Serum Repository and Other Military Research Infrastructure
+- Presenter: Dr. Mark Purdue

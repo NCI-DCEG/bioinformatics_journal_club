@@ -204,6 +204,15 @@ defaults:
       nav_order: 2
       tabs: meeting15_tabs   
 
+  -
+    scope:
+      path: meetings/25-05-14
+    values:
+      title: "25-05-14: The Department of Defense Serum Repository and Other Military Research Infrastructure"
+      parent: meetings
+      nav_order: 2
+      tabs: meeting16_tabs        
+
   
 
 # Exclude from processing.
