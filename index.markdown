@@ -104,3 +104,8 @@ We invite you to contribute to this dynamic environment by recommending a paper 
 ### Meeting 25-05-14
 - Title: The Department of Defense Serum Repository and Other Military Research Infrastructure
 - Presenter: Dr. Mark Purdue
+
+---
+### Meeting 25-06-11
+- Title: FAIR and Reproducible Science in the age of AI: guiding principles
+- Presenter: Dr. Simon Adar

@@ -211,7 +211,16 @@ defaults:
       title: "25-05-14: The Department of Defense Serum Repository and Other Military Research Infrastructure"
       parent: meetings
       nav_order: 2
-      tabs: meeting16_tabs        
+      tabs: meeting16_tabs      
+
+  -
+    scope:
+      path: meetings/25-06-11
+    values:
+      title: "25-06-11: FAIR and Reproducible Science in the age of AI: guiding principles"
+      parent: meetings
+      nav_order: 2
+      tabs: meeting17_tabs        
 
   
 
