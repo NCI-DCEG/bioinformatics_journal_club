@@ -222,6 +222,16 @@ defaults:
       nav_order: 2
       tabs: meeting17_tabs        
 
+  -
+    scope:
+      path: meetings/25-07-09
+    values:
+      title: "25-07-09: Advancing Cancer Research Through Scalable, Real-World Evidence: Truveta’s
+Longitudinal Data Ecosystem"
+      parent: meetings
+      nav_order: 2
+      tabs: meeting18_tabs        
+
   
 
 # Exclude from processing.

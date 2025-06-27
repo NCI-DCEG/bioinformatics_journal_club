@@ -109,3 +109,9 @@ We invite you to contribute to this dynamic environment by recommending a paper 
 ### Meeting 25-06-11
 - Title: FAIR and Reproducible Science in the age of AI: guiding principles
 - Presenter: Dr. Simon Adar
+
+---
+### Meeting 25-07-09
+- Title: Advancing Cancer Research Through Scalable, Real-World Evidence: Truveta’s
+Longitudinal Data Ecosystem
+- Presenter: Truveta Inc. 
