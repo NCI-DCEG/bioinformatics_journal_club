@@ -91,27 +91,27 @@ We invite you to contribute to this dynamic environment by recommending a paper 
 - Presenter: Gino Cioffi
 
 ---
-### Meeting 25-03-12
+#### Meeting 25-03-12
 - Title: Caris Precision Oncology Alliance™ (POA) and CODEai™ clinico-genomics research database overview and demonstration
 - Presenters: Drs. Farah Abdulla, Jamie Holloway, Jesse Lee, and David Crosby
 
 ---
-### Meeting 25-04-09
+#### Meeting 25-04-09
 - Title: Towards a FAIRer Real World Data Commons: real-time processing of individual level patient discharge reports collected by NY's SPARCS program 
 - Presenter: Dr. Jonas De Almeida
 
 ---
-### Meeting 25-05-14
+#### Meeting 25-05-14
 - Title: The Department of Defense Serum Repository and Other Military Research Infrastructure
 - Presenter: Dr. Mark Purdue
 
 ---
-### Meeting 25-06-11
+#### Meeting 25-06-11
 - Title: FAIR and Reproducible Science in the age of AI: guiding principles
 - Presenter: Dr. Simon Adar
 
 ---
-### Meeting 25-07-09
+#### Meeting 25-07-09
 - Title: Advancing Cancer Research Through Scalable, Real-World Evidence: Truveta’s
 Longitudinal Data Ecosystem
 - Presenter: Truveta Inc. 
