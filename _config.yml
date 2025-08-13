@@ -35,7 +35,7 @@ remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 #remote_theme: just-the-docs/just-the-docs
 #theme: minima
 plugins:
-# - jekyll-feed
+ - jekyll-feed
 
 # collections
 collections:
