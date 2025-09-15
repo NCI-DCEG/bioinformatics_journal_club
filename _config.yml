@@ -230,7 +230,16 @@ defaults:
 Longitudinal Data Ecosystem"
       parent: meetings
       nav_order: 2
-      tabs: meeting18_tabs        
+      tabs: meeting18_tabs    
+
+  -
+    scope:
+      path: meetings/25-10-08
+    values:
+      title: "25-10-08: All of Us Research Program: An Introduction to Collaborative Research 	Focused on Breast Cancer"
+      parent: meetings
+      nav_order: 2
+      tabs: meeting19_tabs    
 
   
 

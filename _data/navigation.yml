@@ -36,7 +36,9 @@
     - name: '25-06-11'
       link: /meetings/25-06-11
     - name: '25-07-09'
-      link: /meetings/25-07-09      
+      link: /meetings/25-07-09 
+    - name: '25-10-08'
+      link: /meetings/25-10-08
 - name: Resources
   link: /resources
 - name: News

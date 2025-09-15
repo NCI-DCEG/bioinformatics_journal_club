@@ -115,3 +115,8 @@ We invite you to contribute to this dynamic environment by recommending a paper 
 - Title: Advancing Cancer Research Through Scalable, Real-World Evidence: Truveta’s
 Longitudinal Data Ecosystem
 - Presenter: Truveta Inc. 
+
+---
+#### Meeting 25-10-08
+- Title: All of Us Research Program: An Introduction to Collaborative Research 	Focused on Breast Cancer 
+- Presenters: Drs Rebecca Kelly, Jonathan Wooten and Shahriar Zamani
