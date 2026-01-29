@@ -11,7 +11,7 @@ permalink: meetings/26-02-11
 
 **Location**: Teams
 
-**Presenter**: Dr. Daoud Meerzaman
+**Presenter**: [Dr. Daoud Meerzaman](https://www.cancer.gov/about-nci/organization/cbiit/about/contact/daoud-meerzaman)
 
 ### Advancing Cancer Research Through AI-Driven, Integrative Proteogenomics and Predictive Modeling
 
