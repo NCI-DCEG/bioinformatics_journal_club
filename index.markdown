@@ -117,6 +117,11 @@ Longitudinal Data Ecosystem
 - Presenter: Truveta Inc. 
 
 ---
-#### Meeting 25-10-08
+#### Meeting 26-02-11
+- Title: Advancing Cancer Research Through AI-Driven, Integrative Proteogenomics and Predictive Modeling
+- Presenter: Dr. Daoud Meerzaman
+
+---
+#### Meeting 26-03-11
 - Title: All of Us Research Program: An Introduction to Collaborative Research 	Focused on Breast Cancer 
 - Presenters: Drs Rebecca Kelly, Jonathan Wooten and Shahriar Zamani

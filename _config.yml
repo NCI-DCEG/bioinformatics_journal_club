@@ -234,12 +234,21 @@ Longitudinal Data Ecosystem"
 
   -
     scope:
-      path: meetings/25-10-08
+      path: meetings/26-02-11
     values:
-      title: "25-10-08: All of Us Research Program: An Introduction to Collaborative Research 	Focused on Breast Cancer"
+      title: "26-02-11: Advancing Cancer Research Through AI-Driven, Integrative Proteogenomics and Predictive Modeling"
       parent: meetings
       nav_order: 2
-      tabs: meeting19_tabs    
+      tabs: meeting20_tabs
+
+  -
+    scope:
+      path: meetings/26-03-11
+    values:
+      title: "26-03-11: All of Us Research Program: An Introduction to Collaborative Research 	Focused on Breast Cancer"
+      parent: meetings
+      nav_order: 2
+      tabs: meeting19_tabs
 
   
 
