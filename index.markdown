@@ -125,3 +125,8 @@ Longitudinal Data Ecosystem
 #### Meeting 26-03-11
 - Title: All of Us Research Program: An Introduction to Collaborative Research 	Focused on Breast Cancer 
 - Presenters: Drs Rebecca Kelly, Jonathan Wooten and Shahriar Zamani
+
+---
+#### Meeting 26-05-13
+- Title: The Growing Challenge of Developing and Stewarding High-Quality Epidemiologic Datasets
+- Presenter: Dr. Steven Moore

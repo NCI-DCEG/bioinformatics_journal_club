@@ -250,6 +250,15 @@ Longitudinal Data Ecosystem"
       nav_order: 2
       tabs: meeting19_tabs
 
+  -
+    scope:
+      path: meetings/26-05-13
+    values:
+      title: "26-05-13: The Growing Challenge of Developing and Stewarding High-Quality Epidemiologic Datasets"
+      parent: meetings
+      nav_order: 2
+      tabs: meeting21_tabs
+
   
 
 # Exclude from processing.

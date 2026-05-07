@@ -1,0 +1,7 @@
+alignment: is-left
+style: is-boxed
+size: is-large
+items:
+  - name: Overview
+    link: /meetings/26-05-13
+    icon: fa-dna
